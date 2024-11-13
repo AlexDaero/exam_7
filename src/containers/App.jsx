@@ -7,6 +7,9 @@ function App() {
     { name: 'Iphone 16 Pro Max', price: 140000, stock: 50 },
     { name: 'Samsung s16 Ultra', price: 110000, stock: 40 },
     { name: 'Huawei 90', price: 90000, stock: 80 },
+    { name: 'Asus TUF A17', price: 100000, stock: 28 },
+    { name: 'MSI RTX 4090TI', price: 125000, stock: 63 },
+    { name: 'Ipod', price: 3000, stock: 150 }
   ])
 
   const [sortState, setSortState] = useState(true)
