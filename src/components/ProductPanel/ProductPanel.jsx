@@ -1,10 +1,12 @@
-import React, { useState } from "react";
+import React from "react";
 import './ProductPanel.css'
+import Button from "../UI/Button";
 
 function ProductPanel(props) {
+
     return (
-        <div>
-            <div></div>
+        <div className="panel">
+
         </div>
     )
 }
